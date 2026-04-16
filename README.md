@@ -1,21 +1,27 @@
-#TRAINING DATAS(DDL-DML)
+Training Data (DDL–DML)
 
-I have taken some set of  datasets from kaggle("Olist Store Dataset (Brazilian E-commerce Public Dataset by Olist)")
+I have used a set of datasets from Kaggle:
+“Olist Store Dataset (Brazilian E-commerce Public Dataset by Olist)”
 
-I have completed Various Commands of the DDL and DML.
+I have completed various DDL and DML commands.
 
-Built an end-to-end data analytics pipeline in Databricks using the Olist e-commerce dataset. 
+Built an end-to-end data analytics pipeline in Databricks using the Olist e-commerce dataset.
 
-Loaded CSV data into Delta tables, performed transformations on it.
+Loaded CSV data into Delta tables and performed transformations on it.
 
-Performed DDL:-CREATE,ALTER,DROP,TRUNCATE,COMMENT
+DDL operations performed:
+CREATE, ALTER, DROP, TRUNCATE, COMMENT
 
-Performed DML:-INSERT,UPDATE,DELETE,SELECT
+DML operations performed:
+INSERT, UPDATE, DELETE, SELECT
 
-And also created specific chart for the :- 1. vw_monthly_revenue
-                                           2. vw_delivery_performance
-                                           3. vw_seller_scorecard
+Also created specific charts for:
 
-Linked to GITHUB and DATACRIKCS. 
+vw_monthly_revenue
+vw_delivery_performance
+vw_seller_scorecard
 
-Some datasets are missing. Kindly refer to the kaggle dataset:-https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+Linked to GitHub and Databricks.
+
+Some datasets are missing. Kindly refer to the Kaggle dataset:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
